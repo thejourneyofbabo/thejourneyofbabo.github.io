@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,7 +177,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82b50dd14a90b6f6",
+  "active": "202a8ab24c831b36",
   "lastOpenFiles": [
     "_posts/2024-03-24-first.md",
     "_posts/2024-08-29-Project Monguard.md",
