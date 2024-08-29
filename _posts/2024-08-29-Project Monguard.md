@@ -11,7 +11,7 @@ author_profile: true
 ---
 ## Project Monguard. With ATmega328p(Arduino Uno)
 
-
+![][../../monguard_smile.jpg]
 
 
 

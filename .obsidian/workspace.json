@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-08-29-Project Monguard.md",
+                "file": "_posts/2024-05-11-Github-blog-local-website.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 291.50390243530273
   },
   "right": {
     "id": "379ee8f555e1e53a",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-08-29-Project Monguard.md",
+                "file": "_posts/2024-05-11-Github-blog-local-website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-08-29-Project Monguard.md",
+                "file": "_posts/2024-05-11-Github-blog-local-website.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-08-29-Project Monguard.md"
+                "file": "_posts/2024-05-11-Github-blog-local-website.md"
               }
             }
           },
@@ -179,40 +179,45 @@
   },
   "active": "82b50dd14a90b6f6",
   "lastOpenFiles": [
+    "_site/project/Project-Monguard/index.html",
+    "_site/project/Project-Monguard",
+    "_site/project",
+    "_site/files/monguard_smile.jpg",
+    "_site/files/monguard.png",
+    "_posts/2024-05-17-Github Blog Tester.md",
+    "_posts/2024-08-29-Project Monguard.md",
+    "files/monguard_smile.jpg",
+    "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
+    "_posts/2024-05-21-'uno-blink'_Rust.md",
+    "_posts/2024-05-14-BLDC Control.md",
+    "_posts/2024-05-13-United_Automotive_Software.md",
+    "_posts/2024-05-11-Github-blog-local-website.md",
+    "_posts/2024-05-08-Obsidian with Git.md",
+    "_posts/2024-04-22-The_Journey_of_BABO.md",
+    "_posts/2024-03-24-first.md",
+    "files/monguard.png",
     "_posts/2024-05-30-Basic Algorithms.md",
     "_posts/2024-05-27-HashSet_Collection of Unique values.md",
     "_posts/2024-05-28-Questions_Basic of Data structure.md",
-    "_posts/2024-08-29-Project Monguard.md",
     "_posts/2024-05-20-Microprocessor-Basics.md",
-    "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
     "_posts/2024-05-27-Introduction to Data Structures.md",
     "_site/programming/Basic-Algorithms/index.html",
     "_site/programming/Basic-Algorithms",
     "_site/Basic-Algorithms/index.html",
     "_site/Basic-Algorithms",
     "_sass/minimal-mistakes/_variables.scss~",
-    "_posts/2024-05-14-BLDC Control.md",
-    "_posts/2024-05-17-Github Blog Tester.md",
     "_posts/2024-05-21-Aurduino with Rust.md",
     "_posts/2024-05-21-\"Adding Image Troubleshooting\"-Github blog with Obsidian.md",
-    "_posts/2024-05-11-Github-blog-local-website.md",
-    "_posts/2024-05-08-Obsidian with Git.md",
     "_posts/2024-05-26-Algorithm Rust_Add Two Numbers.md",
     "Excalidraw/Drawing 2024-05-29 16.03.11.excalidraw.md",
     "Excalidraw/Drawing 2024-05-30 00.41.26.excalidraw.md",
     "Excalidraw/Drawing 2024-05-30 00.51.13.excalidraw.md",
     "_site/Excalidraw/Drawing 2024-05-30 00.51.13.excalidraw/index.html",
     "_site/Excalidraw/Drawing 2024-05-30 00.51.13.excalidraw",
-    "_posts/2024-04-22-The_Journey_of_BABO.md",
     "_posts/2024-05-25-Algorithm Rust_Two Sum.md",
     "_site/Excalidraw/Drawing 2024-05-30 00.41.26.excalidraw/index.html",
-    "_site/Excalidraw/Drawing 2024-05-30 00.41.26.excalidraw",
-    "_site/Fonts/210 OmniGothic (2).ttf",
-    "_posts/2024-05-21-'uno-blink'_Rust.md",
-    "_posts/2024-03-24-first.md",
     "files/excalidraw01.png",
     "_site/files/excalidraw01.png",
-    "_posts/2024-05-13-United_Automotive_Software.md",
     "_site/files/Pasted image 20240529160753.png",
     "files/Pasted image 20240529160554.png",
     "_site/files/Pasted image 20240529160554.png",
@@ -221,11 +226,6 @@
     "Zettelkansten/Rust.md",
     "Templates/Basic Blog template.md",
     "_posts/2024-05-28-test.md",
-    "Templates/Main Core Zettle.md",
-    "_site/files/microcontrollers.png",
-    "_site/assets/images/babo.png",
-    "_site/files/jslogo.jpg",
-    "_site/files/Embedded/microcontrollers.png",
-    "files/microcontrollers.png"
+    "_site/files/microcontrollers.png"
   ]
 }
