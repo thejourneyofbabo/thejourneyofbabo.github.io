@@ -10,11 +10,10 @@ toc: true
 author_profile: true
 ---
 ## Project Monguard. With ATmega328p(Arduino Uno)
-
 ![](../../files/monguard_smile.jpg)
-[Monguard Github Repository](https://github.com/MiRuAE/project_monguard.git)
+2024.04 ~ 2024.06
 
-{% include video id="" provider="youtube" %}
+{% include video id="6RIXS6Tz6B4" provider="youtube" %}
 
 
 
