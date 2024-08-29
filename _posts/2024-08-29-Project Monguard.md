@@ -16,8 +16,7 @@ I was taking a Microprocessor Applications class and thought about what I could 
 
 ![](../../files/monguard_smile.jpg)
 2024.04 ~ 2024.06
-
-
+### Operation Video
 {% include video id="6RIXS6Tz6B4" provider="youtube" %}
 
 
