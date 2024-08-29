@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-11-Github-blog-local-website.md",
+                "file": "_posts/2024-08-29-Project Monguard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6898362b0b49356b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-05-17-Github Blog Tester.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-11-Github-blog-local-website.md",
+                "file": "_posts/2024-08-29-Project Monguard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-11-Github-blog-local-website.md",
+                "file": "_posts/2024-08-29-Project Monguard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-11-Github-blog-local-website.md"
+                "file": "_posts/2024-08-29-Project Monguard.md"
               }
             }
           },
@@ -166,8 +178,9 @@
   },
   "active": "82b50dd14a90b6f6",
   "lastOpenFiles": [
-    "_posts/2024-08-29-Project Monguard.md",
     "_posts/2024-05-17-Github Blog Tester.md",
+    "_posts/2024-08-29-Project Monguard.md",
+    "_posts/2024-05-11-Github-blog-local-website.md",
     "_posts/2024-05-13-United_Automotive_Software.md",
     "_posts/2024-05-14-BLDC Control.md",
     "_posts/2024-05-27-Introduction to Data Structures.md",
@@ -178,7 +191,6 @@
     "_posts/2024-05-21-\"Adding Image Troubleshooting\"-Github blog with Obsidian.md",
     "_posts/2024-05-21-'uno-blink'_Rust.md",
     "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
-    "_posts/2024-05-11-Github-blog-local-website.md",
     "_posts/2024-03-24-first.md",
     "_posts/2024-04-22-The_Journey_of_BABO.md",
     "_posts/2024-05-08-Obsidian with Git.md",
