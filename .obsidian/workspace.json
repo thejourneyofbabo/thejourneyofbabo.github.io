@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fe622020e23f2de3",
+        "id": "455da322d6df5e70",
         "type": "tabs",
         "children": [
           {
-            "id": "82b50dd14a90b6f6",
+            "id": "b2dc7c61d81ce85d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-08-29-Project Monguard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21cf79baf6646908",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-08-30 15.50.45.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "6898362b0b49356b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-05-17-Github Blog Tester.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.50390243530273,
-    "collapsed": true
+    "width": 211.50390243530273
   },
   "right": {
     "id": "379ee8f555e1e53a",
@@ -109,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-30 15.50.45.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-30 15.50.45.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-08-30 15.50.45.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,11 +156,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "21cf79baf6646908",
+  "active": "b2dc7c61d81ce85d",
   "lastOpenFiles": [
+    "_posts/2024-05-17-Github Blog Tester.md",
     "_posts/2024-08-29-Project Monguard.md",
     "Excalidraw/Drawing 2024-08-30 15.50.45.excalidraw.md",
-    "_posts/2024-05-17-Github Blog Tester.md",
     "_posts/2024-05-11-Github-blog-local-website.md",
     "_posts/2024-05-13-United_Automotive_Software.md",
     "_posts/2024-05-14-BLDC Control.md",
