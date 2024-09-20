@@ -15,22 +15,30 @@ author_profile: true
 **Problem 01. from Leetcode**\
 Given an array of integers `nums` and an integer `target`, return _indices of the two numbers such that they add up to `target`_.
 You may assume that each input would have **_exactly_ one solution**, and you may not use the _same_ element twice.
-You can return the answer in any order.\
-**Example 1:**
-**Input:** nums = [2,7,11,15], target = 9\
-**Output:** [0,1]\
-**Explanation:** Because nums[0] + nums[1] == 9, we return [0, 1].\
+You can return the answer in any order.
 
-**Example 2:**\
-**Input:** nums = [3,2,4], target = 6\
-**Output:** [1,2]\
+## My Solution
+```rust
+impl Solution {
+    pub fn two_sum(nums: Vec<i32>, target: i32) -> Vec<i32> {
+        let len = nums.len();
+        for i in 0..len-1 {
+            let mut a = target - nums[i];
+            for j in i+1..len {
+                if a - nums[j] == 0 {
+                    return vec![i.try_into().unwrap(), j.try_into().unwrap()];
+                }
+            }
+        }
+        return Vec::new();
+    }
+}
 
-**Example 3:**\
-**Input:** nums = [3,3], target = 6\
-**Output:** [0,1]\
-
-
-
+// Testcases
+**Input:** nums = [2,7,11,15], target = 9
+**Output:** [0,1]
+**Explanation:** Because nums[0] + nums[1] == 9, we return [0, 1].
+```
 
 
 
