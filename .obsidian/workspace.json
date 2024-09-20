@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,7 +164,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "202a8ab24c831b36",
+  "active": "b2dc7c61d81ce85d",
   "lastOpenFiles": [
     "_posts/2024-05-28-Questions_Basic of Data structure.md",
     "_posts/2024-05-30-Basic Algorithms.md",
