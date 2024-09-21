@@ -46,7 +46,10 @@ impl Solution {
 ```
 
 
+## Second Idea
+```rust
 
+```
 
 
 ## Reference
