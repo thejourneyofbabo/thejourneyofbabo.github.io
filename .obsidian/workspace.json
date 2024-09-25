@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "455da322d6df5e70",
+        "id": "5565a72f443eadec",
         "type": "tabs",
         "children": [
           {
-            "id": "b2dc7c61d81ce85d",
+            "id": "7c2e0c9c48c605da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-09-25-Journaling my Journey.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-09-25-Journaling my Journey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-09-25-Journaling my Journey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2024-09-25-Journaling my Journey.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,11 +156,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b2dc7c61d81ce85d",
+  "active": "7c2e0c9c48c605da",
   "lastOpenFiles": [
+    "_posts/2024-09-25-Journaling my Journey.md",
     "_posts/2024-09-19-Two Sum Problem.md",
     "_sass/minimal-mistakes/_page.scss~",
-    "_posts/2024-09-25-Journaling my Journey.md",
     "_sass/minimal-mistakes/_variables.scss~",
     "_site/journey/Journaling-my-Journey/index.html",
     "_site/journey/Journaling-my-Journey",
