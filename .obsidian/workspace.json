@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-25-Algorithm Rust_Two Sum.md",
+                "file": "_posts/2024-05-26-Algorithm Rust_Add Two Numbers.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-25-Algorithm Rust_Two Sum.md",
+                "file": "_posts/2024-05-26-Algorithm Rust_Add Two Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-25-Algorithm Rust_Two Sum.md",
+                "file": "_posts/2024-05-26-Algorithm Rust_Add Two Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-25-Algorithm Rust_Two Sum.md"
+                "file": "_posts/2024-05-26-Algorithm Rust_Add Two Numbers.md"
               }
             }
           },
@@ -167,8 +166,11 @@
   },
   "active": "b2dc7c61d81ce85d",
   "lastOpenFiles": [
-    "_posts/2024-05-30-Basic Algorithms.md",
     "_posts/2024-09-25-Add Two Numbers.md",
+    "_posts/2024-05-21-\"Adding Image Troubleshooting\"-Github blog with Obsidian.md",
+    "_posts/2024-05-26-Algorithm Rust_Add Two Numbers.md",
+    "_posts/2024-05-25-Algorithm Rust_Two Sum.md",
+    "_posts/2024-05-30-Basic Algorithms.md",
     "_site/algorithms/Add-Two-Numbers/index.html",
     "_site/algorithms/Add-Two-Numbers",
     "_posts/2024-09-19-Two Sum Problem.md",
@@ -188,10 +190,7 @@
     "_posts/2024-03-24-first.md",
     "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
     "_posts/2024-05-21-'uno-blink'_Rust.md",
-    "_posts/2024-05-21-\"Adding Image Troubleshooting\"-Github blog with Obsidian.md",
     "_posts/2024-05-21-Aurduino with Rust.md",
-    "_posts/2024-05-25-Algorithm Rust_Two Sum.md",
-    "_posts/2024-05-26-Algorithm Rust_Add Two Numbers.md",
     "_posts/2024-05-27-HashSet_Collection of Unique values.md",
     "_posts/2024-05-27-Introduction to Data Structures.md",
     "_posts/2024-05-14-BLDC Control.md",

@@ -4,8 +4,8 @@ title: Algorithm Rust_Add Two Numbers
 categories:
   - Programming
 tags:
-  - algorighm
   - rust
+  - algorithm
 aliases: 
 connected:
   - "[[Algorithms]]"

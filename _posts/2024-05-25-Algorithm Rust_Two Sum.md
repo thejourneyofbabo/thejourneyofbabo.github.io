@@ -4,8 +4,8 @@ title: Algorithm Rust_Two Sum
 categories:
   - Programming
 tags:
-  - algorighm
   - rust
+  - algorithm
 aliases:
   - Two Sum
 connected:
