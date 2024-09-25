@@ -4,8 +4,8 @@ title: Basic Algorithms
 categories:
   - Programming
 tags:
-  - algorighm
   - rust
+  - algorithm
 aliases:
   - Basic Sorting Algorithms
 connected: 
