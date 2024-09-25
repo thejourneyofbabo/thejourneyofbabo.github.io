@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-09-19-Two Sum Problem.md",
+                "file": "_posts/2024-09-25-Journaling my Journey.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-09-19-Two Sum Problem.md",
+                "file": "_posts/2024-09-25-Journaling my Journey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-09-19-Two Sum Problem.md",
+                "file": "_posts/2024-09-25-Journaling my Journey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-09-19-Two Sum Problem.md"
+                "file": "_posts/2024-09-25-Journaling my Journey.md"
               }
             }
           },
@@ -166,8 +166,14 @@
   },
   "active": "b2dc7c61d81ce85d",
   "lastOpenFiles": [
-    "_posts/2024-05-30-Basic Algorithms.md",
+    "_site/journey/Journaling-my-Journey/index.html",
+    "_site/journey/Journaling-my-Journey",
+    "_site/journey",
+    "_site/Journaling-my-Journey/index.html",
+    "_site/Journaling-my-Journey",
     "_posts/2024-09-19-Two Sum Problem.md",
+    "_posts/2024-09-25-Journaling my Journey.md",
+    "_posts/2024-05-30-Basic Algorithms.md",
     "_posts/2024-08-29-Project Monguard.md",
     "Zettelkansten/Rust.md",
     "_posts/2024-09-25-Add Two Numbers.md",
@@ -183,9 +189,6 @@
     "_posts/2024-05-11-Github-blog-local-website.md",
     "_site/algorithms/Two-Sum-Problem/index.html",
     "_site/algorithms/Two-Sum-Problem",
-    "_site/algorithms",
-    "_site/Excalidraw/Drawing 2024-08-30 15.50.45.excalidraw/index.html",
-    "_site/Excalidraw/Drawing 2024-08-30 15.50.45.excalidraw",
     "_posts/2024-05-08-Obsidian with Git.md",
     "_posts/2024-04-22-The_Journey_of_BABO.md",
     "_posts/2024-03-24-first.md",
@@ -197,15 +200,12 @@
     "_posts/2024-05-14-BLDC Control.md",
     "_posts/2024-05-13-United_Automotive_Software.md",
     "Excalidraw/Drawing 2024-08-30 15.50.45.excalidraw.md",
-    "_site/project/Project-Monguard/index.html",
     "_site/files/monguard_smile.jpg",
     "_site/files/monguard.png",
     "files/monguard_smile.jpg",
     "files/monguard.png",
     "_posts/2024-05-20-Microprocessor-Basics.md",
     "Excalidraw/Drawing 2024-05-29 16.03.11.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-30 00.41.26.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-30 00.51.13.excalidraw.md",
     "files/excalidraw01.png",
     "_site/files/excalidraw01.png",
     "_site/files/Pasted image 20240529160753.png",
