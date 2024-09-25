@@ -166,6 +166,7 @@
   },
   "active": "b2dc7c61d81ce85d",
   "lastOpenFiles": [
+    "_sass/minimal-mistakes/_variables.scss~",
     "_site/journey/Journaling-my-Journey/index.html",
     "_site/journey/Journaling-my-Journey",
     "_site/journey",
@@ -188,7 +189,6 @@
     "_posts/2024-05-17-Github Blog Tester.md",
     "_posts/2024-05-11-Github-blog-local-website.md",
     "_site/algorithms/Two-Sum-Problem/index.html",
-    "_site/algorithms/Two-Sum-Problem",
     "_posts/2024-05-08-Obsidian with Git.md",
     "_posts/2024-04-22-The_Journey_of_BABO.md",
     "_posts/2024-03-24-first.md",
