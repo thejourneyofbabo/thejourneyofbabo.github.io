@@ -9,7 +9,7 @@ tags:
 aliases: 
 connected: 
 toc: true
-author_profile: false
+author_profile: true
 ---
 ## Two Sum Problem
 **Problem 01. from Leetcode**\
