@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-09-19-Two Sum Problem.md",
+                "file": "_posts/2024-09-25-Journaling my Journey.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-09-19-Two Sum Problem.md",
+                "file": "_posts/2024-09-25-Journaling my Journey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-09-19-Two Sum Problem.md",
+                "file": "_posts/2024-09-25-Journaling my Journey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-09-19-Two Sum Problem.md"
+                "file": "_posts/2024-09-25-Journaling my Journey.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "b2dc7c61d81ce85d",
   "lastOpenFiles": [
+    "_posts/2024-09-19-Two Sum Problem.md",
     "_sass/minimal-mistakes/_page.scss~",
     "_posts/2024-09-25-Journaling my Journey.md",
     "_sass/minimal-mistakes/_variables.scss~",
@@ -174,7 +175,6 @@
     "_site/journey",
     "_site/Journaling-my-Journey/index.html",
     "_site/Journaling-my-Journey",
-    "_posts/2024-09-19-Two Sum Problem.md",
     "_posts/2024-05-30-Basic Algorithms.md",
     "_posts/2024-08-29-Project Monguard.md",
     "Zettelkansten/Rust.md",
@@ -185,7 +185,6 @@
     "_site/algorithms/Add-Two-Numbers/index.html",
     "_site/algorithms/Add-Two-Numbers",
     "_site/Add-Two-Numbers/index.html",
-    "_site/Add-Two-Numbers",
     "_posts/2024-05-28-Questions_Basic of Data structure.md",
     "_posts/2024-05-17-Github Blog Tester.md",
     "_posts/2024-05-11-Github-blog-local-website.md",
