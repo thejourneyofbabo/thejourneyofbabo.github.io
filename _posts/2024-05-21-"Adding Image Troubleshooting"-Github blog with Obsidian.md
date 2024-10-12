@@ -6,7 +6,8 @@ categories:
 tags: 
 toc: true
 author_profile: true
-aliases: 
+aliases:
+  - 깃허브 사진 추가하는법
 connected:
 ---
 ## Obsidian + Web page image upload
@@ -30,7 +31,7 @@ And I found the format `![](../../files/image)` like this.
 
 Than you can see the lovely image either from your Obsidan pages and your website.
 Happy:)
-![](../../files/jslogo.jpg)
+![](../../files/jslogo.jpg|100)
 ### Change the size of the image
 `{: width="100%" height="100%"}`
 with this, you can change size
