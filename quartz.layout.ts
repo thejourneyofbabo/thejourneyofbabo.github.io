@@ -30,7 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(
       Component.RecentNotes({
         title: "Recent Writing",
-        limit: 2,
+        limit: 3,
         filter: (f) =>
           f.slug!.startsWith("My-Notes/") && 
           f.slug! !== "My-Notes/index" && 
