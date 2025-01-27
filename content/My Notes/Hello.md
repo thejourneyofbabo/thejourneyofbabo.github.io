@@ -2,13 +2,6 @@
 title: Hello
 draft: false
 tags: 
-aliases:
+aliases: 
+date: 28-01-2025
 ---
-hello
-## Hello
-[[Hi]]
-
-## Nice to meet you
-
-### Oh me too!
-

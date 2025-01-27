@@ -6,9 +6,7 @@ longform:
   sceneFolder: /
   scenes:
     - Introduction
-    - Hi
     - Hello
-    - Bye
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 title: My Notes

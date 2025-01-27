@@ -2,5 +2,6 @@
 title: <% tp.file.title %>
 draft: false
 tags: 
-aliases:
+aliases: 
+date: <% tp.date.now("DD-MM-YYYY") %>
 ---
