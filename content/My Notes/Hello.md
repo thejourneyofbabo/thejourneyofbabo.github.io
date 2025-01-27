@@ -11,3 +11,10 @@ good to see you
 
 ### How are you?
 
+![[The-Journey-of-Babo-Logo.jpg|200]] ![[The-Journey-of-Babo-Logo.jpg|200]]
+## Good?
+
+[[Introduction]]
+
+
+
