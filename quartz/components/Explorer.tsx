@@ -84,6 +84,11 @@ export default ((userOpts?: Partial<Options>) => {
       constructFileTree(allFiles)
     }
 
+    if (fileData.slug == "index") {
+      return <></>
+    }
+
+
     return (
       <div class={classNames(displayClass, "explorer")}>
         <button
