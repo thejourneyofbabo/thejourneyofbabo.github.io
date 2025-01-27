@@ -2,7 +2,6 @@
 title: Introduction
 draft: false
 tags: 
-aliases:
+aliases: 
+date: 28-01-2025
 ---
-Hello
-## This is intro
