@@ -4,8 +4,9 @@ draft: false
 tags: 
 aliases:
 ---
-`Path: quartz/components/Graph.tsx`
+> Series of How to build my [[Quartz-Blog]]
 
+`Path: quartz/components/Graph.tsx`
 ## Modification Purpose
 Modified the Graph component to display different types of graphs based on the page type:
 - Show global graph by default on the index page
