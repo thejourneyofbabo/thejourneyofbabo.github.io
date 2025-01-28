@@ -3,6 +3,7 @@ title: Hello
 draft: false
 tags: 
 aliases:
+  - Hello22
 ---
 ## Hello there
 good to see you
