@@ -41,11 +41,11 @@ export const defaultContentPageLayout: PageLayout = {
         linkToMore: "My-Notes/" as SimpleSlug,
       }),
     ),
-    Component.DesktopOnly(Component.Explorer()),
+    //Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.TableOfContents()),
   ],
   right: [
     Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
 }

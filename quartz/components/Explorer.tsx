@@ -88,7 +88,6 @@ export default ((userOpts?: Partial<Options>) => {
       return <></>
     }
 
-
     return (
       <div class={classNames(displayClass, "explorer")}>
         <button
