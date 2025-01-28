@@ -6,6 +6,6 @@ aliases:
 ---
 ## Hello
 This is introduction
-
+[[Hello|Hello22]]
 ## Good
-[[content/index|Welcome to The Journey of Babo]]
+[[../index|Welcome to The Journey of Babo]]
