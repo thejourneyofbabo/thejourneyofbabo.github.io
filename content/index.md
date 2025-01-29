@@ -7,4 +7,3 @@ aliases:
 ![[The Journey of Babo Logo.jpg|500]]
 
 ## Good to see you all
-[[Hello|Hello22]]

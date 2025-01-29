@@ -4,8 +4,7 @@ draft: false
 tags: 
 aliases:
 ---
-## Hello
-This is introduction
-[[Hello|Hello22]]
-## Good
-[[../index|Welcome to The Journey of Babo]]
+## Introduction of My Notes
+>The space for my notes
+
+I decide to used [[Quartz-Blog]] for blogging my stuff. Obsidian style of Connection of notes. 

@@ -1,9 +1,8 @@
 ---
-title: Hello
+title: Hello World
 draft: false
 tags: 
 aliases:
-  - Hello22
 ---
 ## Hello there
 good to see you
@@ -12,9 +11,10 @@ good to see you
 
 ### How are you?
 
-![[The-Journey-of-Babo-Logo.jpg|200]] ![[The-Journey-of-Babo-Logo.jpg|200]]
+![[The-Journey-of-Babo-Logo.jpg|250]] 
 ## Good?
 
+This is the tester page
 [[Introduction]]
 
 
