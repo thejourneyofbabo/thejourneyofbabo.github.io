@@ -6,7 +6,7 @@ longform:
   sceneFolder: /
   scenes:
     - Introduction
-    - Hello
+    - Hello World
     - Quartz Update Graph View Setting
     - Index Page Component Behavior
     - Quartz-Blog
