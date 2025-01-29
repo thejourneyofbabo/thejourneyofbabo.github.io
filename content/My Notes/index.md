@@ -9,6 +9,7 @@ longform:
     - Hello
     - Quartz Update Graph View Setting
     - Index Page Component Behavior
+    - Quartz-Blog
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 title: My Notes
