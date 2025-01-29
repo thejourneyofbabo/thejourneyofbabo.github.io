@@ -35,7 +35,7 @@ export const defaultContentPageLayout: PageLayout = {
         title: "Recent Writing",
         limit: 3,
         filter: (f) =>
-          f.slug!.startsWith("My-Notes/") && 
+          //f.slug!.startsWith("My-Notes/") && 
           f.slug! !== "My-Notes/index" && 
           !f.frontmatter?.noindex,
         linkToMore: "My-Notes/" as SimpleSlug,
