@@ -4,4 +4,7 @@ draft: false
 tags: 
 aliases:
 ---
-## F1Tenth Competition
+## [F1Tenth Competition](https://roboracer.ai/)
+> 1/10th size RC Car for F1 Racing
+
+![[f1car.jpg]]
