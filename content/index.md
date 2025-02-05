@@ -9,6 +9,7 @@ aliases:
 ## Good to see you all
 
 >Building my blog with [[Quartz-Blog]]
+> [[BaBrain]] which is my Second Brain
 
 # Project
 ## F1Tenth
