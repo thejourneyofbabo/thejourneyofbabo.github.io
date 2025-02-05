@@ -13,7 +13,10 @@ longform:
     - F1Tenth 2025
     - F1Tenth Build
     - F1Tenth Learn
+    - F1Tenth Simulator
+    - BaBrain
   sceneTemplate: templates/chapter.md
-  ignoredFiles: []
+  ignoredFiles:
+    - ()
 title: My Notes
 ---
