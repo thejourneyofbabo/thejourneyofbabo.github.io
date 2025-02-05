@@ -11,6 +11,10 @@ longform:
     - Index Page Component Behavior
     - Quartz-Blog
     - F1Tenth 2025
+    - BaBrain
+    - F1Tenth Build
+    - F1Tenth Learn
+    - F1Tenth Simulator
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 title: My Notes
