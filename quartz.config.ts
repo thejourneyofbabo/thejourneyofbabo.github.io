@@ -15,8 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "ko-KR",
-    //locale: "en-US",
+    locale: "en-US",
     baseUrl: "thejourneyofbabo.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     //defaultDateType: "created",
