@@ -85,7 +85,7 @@ const config: QuartzConfig = {
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
-        sortBy: "modifiedDate" // change
+        //sortBy: "modifiedDate" // change
       }),
       Plugin.Assets(),
       Plugin.Static(),
