@@ -15,6 +15,7 @@ longform:
     - F1Tenth Build
     - F1Tenth Learn
     - F1Tenth Simulator
+    - Tester Page
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 title: My Notes
