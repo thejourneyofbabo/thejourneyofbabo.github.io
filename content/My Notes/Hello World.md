@@ -10,8 +10,7 @@ good to see you
 ## I'm Jisang
 
 ### How are you?
-
-![[The-Journey-of-Babo-Logo.jpg|250]] 
+![[The Journey of Babo Logo.jpg|250]]
 ## Good?
 
 This is the tester page
