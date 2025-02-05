@@ -80,14 +80,15 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      Plugin.FolderPage(),
+      Plugin.FolderPage({
+        sortBy: "title",
+        sortAccending: "true"
+      }),
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
         //sortBy: "modifiedDate" // change
-        sortBy: "title",
-        sortAccending: "true"
       }),
       Plugin.Assets(),
       Plugin.Static(),
