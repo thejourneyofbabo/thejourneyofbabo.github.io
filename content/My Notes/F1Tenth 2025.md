@@ -1,7 +1,8 @@
 ---
 title: F1Tenth 2025
 draft: false
-tags: 
+tags:
+  - F1Tenth
 aliases:
 ---
 ## [F1Tenth Competition](https://roboracer.ai/)
@@ -10,4 +11,11 @@ aliases:
 ![[f1car.jpg]]
 
 > [!note]
-> We built Our Car
+> [Building Car](https://roboracer.ai/build.html)
+> [Basic Learning](https://roboracer.ai/learn.html#)
+## Building the Hardware
+[[F1Tenth Build]]
+
+
+## Software Stack
+[[F1Tenth Learn]] 
