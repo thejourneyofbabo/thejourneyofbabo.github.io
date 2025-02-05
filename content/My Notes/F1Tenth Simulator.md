@@ -19,5 +19,5 @@ aliases:
 
 ## [Side Project](https://github.com/thejourneyofbabo/f1sim_ws)
 I updated some of Docker file and added the package for Rust-ROS2 setup
-so inside the sim_ws/src folder, you might also could see rust_ws package which include some code to interact with simulation environment
+so inside the sim_ws/src folder, you might also could see `rust_ws` package which include some code to interact with simulation environment
 ![[f1sim_ws_rust.png]]
