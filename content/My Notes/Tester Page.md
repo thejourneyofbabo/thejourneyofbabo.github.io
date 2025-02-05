@@ -2,7 +2,8 @@
 title: Tester Page
 draft: false
 tags: 
-aliases:
+aliases: 
+date: 2024-02-06
 ---
 ## Hello
 
