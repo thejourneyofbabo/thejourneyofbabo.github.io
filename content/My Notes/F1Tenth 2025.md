@@ -8,4 +8,6 @@ aliases:
 > 1/10th size RC Car for F1 Racing
 
 ![[f1car.jpg]]
-Car we built
+
+> [!note]
+> We built Our Car
