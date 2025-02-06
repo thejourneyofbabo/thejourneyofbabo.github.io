@@ -23,7 +23,9 @@ so inside the sim_ws/src folder, you might also could see `rust_ws` package whic
 ![[f1sim_ws_rust.png]]
 ## To-Do
 - [ ] [[Automatic Emergency Braking]]
-- [ ] Basic move
+- [ ] [[F1Tenth Basic Move(Auto0)|Basic Drive]]
+
+
 - [ ] SLAM
-## Basic move_V0
-![[auto_0.mp4]]
+
+

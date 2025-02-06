@@ -16,6 +16,7 @@ longform:
     - F1Tenth Learn
     - F1Tenth Simulator
     - Automatic Emergency Braking
+    - F1Tenth Basic Move(Auto0)
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 title: My Notes
