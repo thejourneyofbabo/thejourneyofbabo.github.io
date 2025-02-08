@@ -1,9 +1,10 @@
 ---
-title: F1Tenth 2025
+title: F1Tenth
 draft: false
 tags:
   - F1Tenth
 aliases:
+  - F1Tenth 2025
 ---
 ## [F1Tenth Competition](https://roboracer.ai/)
 > 1/10th size RC Car for F1 Racing
