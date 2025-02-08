@@ -16,8 +16,8 @@ longform:
     - F1Tenth Learn
     - F1Tenth Simulator
     - Automatic Emergency Braking
-    - F1Tenth Basic Move(Auto0)
     - Calibrating the Odometry
+    - F1Tenth Basic Move(Auto0)
     - memo
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
