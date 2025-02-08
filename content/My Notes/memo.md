@@ -4,6 +4,7 @@ draft: true
 tags: 
 aliases:
 ---
+
 # EV 자율주행 경진대회
 
 Module A,B  -> Module C Race1 전부분 -> SLAM(X) -> Module D -> Module E -> Camera 라인트레이싱 ->  Module D.2 -> Racing & Module F, G
