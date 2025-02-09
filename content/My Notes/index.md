@@ -19,6 +19,7 @@ longform:
     - F1Tenth Basic Move(Auto0)
     - Calibrating the Odometry
     - memo
+    - Rigid Body Transforms
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 title: My Notes
