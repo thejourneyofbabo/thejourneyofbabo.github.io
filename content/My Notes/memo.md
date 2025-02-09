@@ -1,6 +1,6 @@
 ---
 title: 2025대회 규정정리
-draft: false
+draft: true
 tags: 
 aliases:
 ---

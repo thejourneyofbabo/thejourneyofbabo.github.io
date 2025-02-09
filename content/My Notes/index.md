@@ -10,14 +10,14 @@ longform:
     - Quartz Update Graph View Setting
     - Index Page Component Behavior
     - Quartz-Blog
-    - F1Tenth 2025
+    - F1Tenth
     - BaBrain
     - F1Tenth Build
     - F1Tenth Learn
     - F1Tenth Simulator
     - Automatic Emergency Braking
-    - F1Tenth Basic Move(Auto0)
     - Calibrating the Odometry
+    - F1Tenth Basic Move(Auto0)
     - memo
     - Rigid Body Transforms
   sceneTemplate: templates/chapter.md

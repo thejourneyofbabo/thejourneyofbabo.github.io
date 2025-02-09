@@ -13,5 +13,5 @@ aliases:
 
 # Project
 ## F1Tenth
-> [[F1Tenth 2025]]  is the current project I'm working on since Dec.2024
+> [[F1Tenth]]  is the current project I'm working on since Dec.2024
 
