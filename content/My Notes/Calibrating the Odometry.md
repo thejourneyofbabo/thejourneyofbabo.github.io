@@ -1,7 +1,8 @@
 ---
 title: Calibrating the Odometry
 draft: false
-tags: 
+tags:
+  - F1Tenth
 aliases:
 ---
 ## [F1Tenth Calibration](https://f1tenth.readthedocs.io/en/stable/getting_started/driving/drive_calib_odom.html)
