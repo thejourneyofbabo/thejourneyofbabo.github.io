@@ -1,7 +1,8 @@
 ---
 title: F1Tenth Basic Move(Auto0)
-draft: false
-tags: 
+draft: true
+tags:
+  - F1Tenth
 aliases:
   - Basic Drive
 ---
