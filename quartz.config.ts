@@ -81,7 +81,7 @@ const config: QuartzConfig = {
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
       Plugin.FolderPage({
-        sort: (f1, f2) => {
+        sort: (f1, f2) => { // sort with title
             const title1 = f1.title || '';
             const title2 = f2.title || '';
         
