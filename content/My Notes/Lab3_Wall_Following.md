@@ -1,7 +1,8 @@
 ---
 title: Lab3_Wall_Following
 draft: false
-tags: 
+tags:
+  - F1Tenth
 aliases:
 ---
 ## Wall Following

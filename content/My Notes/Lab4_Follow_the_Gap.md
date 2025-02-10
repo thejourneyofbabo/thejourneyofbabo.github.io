@@ -1,7 +1,8 @@
 ---
 title: Lab4_Follow_the_Gap
 draft: false
-tags: 
+tags:
+  - F1Tenth
 aliases:
 ---
 ## Following the Gap

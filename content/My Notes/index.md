@@ -15,14 +15,14 @@ longform:
     - F1Tenth Build
     - F1Tenth Learn
     - F1Tenth Simulator
-    - Lab2_Automatic_Emergency_Braking
     - Calibrating the Odometry
     - F1Tenth Basic Move(Auto0)
     - memo
-    - Rigid Body Transforms
     - ROS2 with Rust
+    - Lab2_Automatic_Emergency_Braking
     - Lab3_Wall_Following
     - Lab4_Follow_the_Gap
+    - Rigid Body Transforms
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 title: My Notes
