@@ -1,5 +1,5 @@
 ---
-title: Automatic Emergency Braking
+title: Lab2_Automatic_Emergency_Braking
 draft: false
 tags:
   - F1Tenth
