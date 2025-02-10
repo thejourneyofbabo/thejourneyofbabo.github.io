@@ -81,9 +81,13 @@ const config: QuartzConfig = {
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
       Plugin.FolderPage({
-        sortBy: "title",
-        sortAccending: "true"
-      }),
+        sort: (f1, f2) => {
+            const title1 = f1.title || '';
+            const title2 = f2.title || '';
+        
+            return title1.localeCompare(title2);
+          }
+        }),
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
