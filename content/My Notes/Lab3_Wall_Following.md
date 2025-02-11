@@ -12,6 +12,9 @@ aliases:
 ![[Distance and Orientation of the car relative to the wall.png|300]]
 ![[wall_follow _1.mp4]]
 
+**- Next -**
+[[Lab4_Follow_the_Gap]]
+
 ---
 ### Reference
 [F1Tenth_Lab3_Template](https://github.com/f1tenth/f1tenth_lab3_template)
