@@ -10,7 +10,7 @@ aliases:
 ### Method
 ![[Follow the gap Tweak1.png]]
 ### Adaptive Scan-Threshold
-> Adjusting Scan Treshold with minimum range
+> **Adjusting Scan Treshold with minimum range**
 ``` cpp
             {0.15, 0.4},  // Min
             {0.2, 0.8},   
@@ -25,8 +25,15 @@ aliases:
             {3.0, 4.5}    // Max
 
 ```
+
+> **Limit the View angle**
+```cpp
+    double left_wing = M_PI / 2.7;
+    double right_wing = -(M_PI / 2.7);
+
+```
 ### Simulation Workspace
-![[gap-follow-full.gif]]
+![[Follow-the-Gap-levine-obs.gif]]
 ![[Gap_follow_sim(obs).gif]]
 
 **Race Track Map**
