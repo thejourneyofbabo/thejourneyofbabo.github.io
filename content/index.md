@@ -12,6 +12,7 @@ aliases:
 > [[BaBrain]] which is my Second Brain
 
 # Project
-## F1Tenth
+### [[MiRu-"Autonomous Software Group"]]
+### F1Tenth
 > [[F1Tenth]]  is the current project I'm working on since Dec.2024
 
