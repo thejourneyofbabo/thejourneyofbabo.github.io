@@ -42,7 +42,7 @@ aliases:
 ![[gap-follow-test.mp4]]
 
 **- Next -**
-[[]]
+
 
 ---
 ### Reference
