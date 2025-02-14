@@ -23,6 +23,7 @@ longform:
     - Lab3_Wall_Following
     - Lab4_Follow_the_Gap
     - Rigid Body Transforms
+    - MiRu-"Autonomous Software Group"
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 title: My Notes

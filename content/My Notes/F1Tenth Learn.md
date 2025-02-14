@@ -11,6 +11,8 @@ aliases:
 - [[F1Tenth Simulator]]: Lightweight 2D simulator built with ROS
 - [[Lab2_Automatic_Emergency_Braking]]: AEB for safety
 - [[Rigid Body Transforms]]
+- [[Lab3_Wall_Following]]
+- [[Lab4_Follow_the_Gap]]
 
 
 
