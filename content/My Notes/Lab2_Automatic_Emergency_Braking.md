@@ -23,8 +23,6 @@ r_i(t) &: \text{Range between vehicle and object} \\
 $$
 ![[AEB_terminal.png]]
 
-**- Next -**
-[[Lab3_Wall_Following]]
 
 ---
 ### Reference
